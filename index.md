@@ -1,4 +1,4 @@
 ---
-title: Tech Warrior Welcome to my blog
+title:Tech Warrior Welcome to my blog
 ---
 
